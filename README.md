@@ -1,6 +1,8 @@
 ## Hi there, I'm Joadson! 👋
 • Systems Analysis and Development Student at the Pontifícia Universidade Católica do Paraná - PUCPR.
+
 • Passionate about programming, machine learning, data science.
+
 • In career transition
 
 ## Languages e Tools 💻
